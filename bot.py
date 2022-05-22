@@ -2,7 +2,7 @@ import telepot
 import time
 import requests
 
-bot = telepot.Bot('') # Access Token. Generate with Botfather
+bot = telepot.Bot('5183307521:AAHqbs4AweDqYm_YYHT28TRCfjFxy4Bictg') # Access Token. Generate with Botfather
 APIToken = "" # PHPHive Truecaller API Token, Obtain it from https://tcapi.phphive.info/console/
 
 
